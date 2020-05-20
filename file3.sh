@@ -1,1 +1,1 @@
-sudo apt-get purge --auto-remove nginx
+sudo apt-get --auto-remove nginx
