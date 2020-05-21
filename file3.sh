@@ -1,1 +1,1 @@
-sudo apt-get remove nginx nginx-common
+sudo apt-get remove nginx
